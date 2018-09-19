@@ -47,6 +47,11 @@ a:hover {
 
 #box-two, .box-three, .box-four {
     margin: 40px 0;
+    padding-bottom: 20px;
+}
+
+.img-box {
+    width: 90%;
 }
 
 @media(min-width: 540px) {
